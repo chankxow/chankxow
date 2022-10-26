@@ -9,4 +9,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-![GitHub Stats](https://github-readme-stats.vercel.ap... &theme=radical)
+
+# MY STATS 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chankxow&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Chankxow&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Chankxow&theme=monokai)
+
