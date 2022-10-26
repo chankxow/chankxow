@@ -11,7 +11,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 # MY STATS 
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chankxow&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Chankxow&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Chankxow&theme=monokai)
@@ -22,7 +21,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://fb.com/ki pm](https://www.facebook.com/profile.php?id=100011973946922)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ki pm" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100011973946922)](https://www.facebook.com/profile.php?id=100011973946922)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ki pm" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
