@@ -4,9 +4,9 @@
 - 🌱 I’m currently learning coding ...
 
 # MY STATS 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chankxow&theme=monokai)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Chankxow&theme=monokai)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Chankxow&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chankxow&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chankxow&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chankxow&theme=monokai)
 
 
 <hr>
