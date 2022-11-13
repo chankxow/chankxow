@@ -3,6 +3,8 @@
 - 🔭 I’m currently study at Srithatpittayakom school ...
 - 🌱 I’m currently learning coding ...
 
+<img src="https://randomcatgifs.com/media/indeliblegloomycirriped-small.gif">
+
 # MY STATS 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chankxow&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chankxow&theme=monokai)
