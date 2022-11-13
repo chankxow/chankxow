@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently study at Srithatpittayakom school ...
-- 🌱 I’m currently learning coding ...
+<h3 align="center">- 🔭 I’m currently study at Srithatpittayakom school ...</h3>
+<h3 align="center" >- 🌱 I’m currently learning coding ...</h3>
 
-<img align="center" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif">
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif">
+
 
 # MY STATS 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chankxow&theme=monokai)
