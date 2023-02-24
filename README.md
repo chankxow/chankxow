@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-![](![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chankxow&show_icons=true&theme=transparent))
-![]()
-![]()
-![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter)
+
 
 <h3 align="center">- 🔭 I’m currently study at Srithatpittayakom school ...</h3>
 <h3 align="center" >- 🌱 I’m currently learning coding ...</h3>
@@ -12,6 +9,9 @@
 
 
 # MY STATS 
+![](![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chankxow&show_icons=true&theme=transparent))
+![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chankxow&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chankxow&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chankxow&theme=monokai)
