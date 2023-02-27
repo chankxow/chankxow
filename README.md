@@ -2,8 +2,8 @@
 
 
 
-<h3 align="center">- 🔭 I’m currently study at Srithatpittayakom school ...</h3>
-<h3 align="center" >- 🌱 I’m currently learning coding ...</h3>
+<h3>- 🔭 I’m currently study at Srithatpittayakom school ... Matthayom Highschool</h3>
+<h3>- 🌱 I’m currently learning coding ...</h3>
 
 <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" >
 
