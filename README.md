@@ -1,12 +1,9 @@
 ### Hi EveryOne 👋
 
-
-
 <h3>- 🔭 I’m currently study at Srithatpittayakom school ... Matthayom Highschool</h3>
 <h3>- 🌱 I’m currently learning coding ...</h3>
 
 <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" >
-
 
 # MY STATS 
 ![](![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chankxow&show_icons=true&theme=transparent))
