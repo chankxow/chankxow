@@ -9,7 +9,6 @@ hxhxhxhxhxh
 <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" >
 
 # MY STATS 
-![](![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chankxow&show_icons=true&theme=transparent))
 ![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chankxow&theme=monokai)
