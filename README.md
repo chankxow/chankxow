@@ -1,7 +1,6 @@
 ### Hi EveryOne My name is Phoom👋
 
-<h3>- 🔭 I’m currently study at Srithatpittayakom school ... Matthayom Highschool</h3>
-<h3>- 🌱 I’m currently learning coding software and hardware ...</h3>
+##### I LOVE CODING
 
 <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" >
 
