@@ -1,4 +1,6 @@
-### Hi EveryOne My name is Phoom👋
+```python
+print("Hello Python")
+```
 
 ##### I LOVE CODING
 ##### I'M 18 YEARS OLD
