@@ -1,5 +1,5 @@
 ```python
-print("Hello Python")
+print("HELLO M")
 ```
 
 ##### I LOVE CODING
