@@ -1,17 +1,7 @@
 ```python
 print("HELLO MY NAME IS POOM")
 ```
-SSS
-sss
-123xxx
-+++
-popxxx
-+++XD
-123xxx
-+++
-popxxx
-+++
-123xxx
+
 ##### I LOVE CODING
 ##### I'M 18 YEARS OLD
 <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" >
