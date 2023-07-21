@@ -4,10 +4,10 @@ lass Person:
     self.name = name
     self.age = age
 
-p1 = Person("Kiattipoom", 18)
+data = Person("Kiattipoom", 18)
 
-print(p1.name)
-print(p1.age)
+print(data.name)
+print(data.age)
 ```
 ##### I LOVE CODING WEB/IOT/ROBOT
 ##### I'M 18 YEARS OLD
