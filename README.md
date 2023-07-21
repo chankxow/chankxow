@@ -1,5 +1,13 @@
 ```python
-print("HELLO MY NAME IS POOM")
+lass Person:
+  def __init__(self, name, age):
+    self.name = name
+    self.age = age
+
+p1 = Person("Kiattipoom", 18)
+
+print(p1.name)
+print(p1.age)
 ```
 ##### I LOVE CODING WEB/IOT/ROBOT
 ##### I'M 18 YEARS OLD
