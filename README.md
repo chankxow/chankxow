@@ -15,7 +15,7 @@ print(data.age)
 
 
 # MY STATS 
-![h](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter)
+![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chankxow&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chankxow&theme=monokai)
