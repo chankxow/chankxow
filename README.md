@@ -9,7 +9,11 @@ data = Person("Kiattipoom", 18)
 print(data.name)
 print(data.age)
 ```
-##### I LOVE CODING WEB/IOT/ROBOT
+
+# INTEREST
+Front-End Developer
+Web Application Developer
+
 ##### I'M 18 YEARS OLD
 <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" >
 
