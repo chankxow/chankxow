@@ -15,8 +15,6 @@ print(data.age)
 - Web Application Developer
 - IOT Dev
 
-
-
 # MY STATS 
 ![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter)
 
@@ -25,6 +23,7 @@ print(data.age)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chankxow&theme=monokai)
 
 <hr>
+
 <h3 align="center">A passionate frontend developer from thailand</h3>
 
 <h3 align="center">Connect with me:</h3>
