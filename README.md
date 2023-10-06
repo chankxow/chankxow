@@ -11,8 +11,8 @@ print(data.age)
 ```
 
 # INTEREST
-Front-End Developer
-Web Application Developer
+- Front-End Developer
+- Web Application Developer
 
 ##### I'M 18 YEARS OLD
 <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" >
