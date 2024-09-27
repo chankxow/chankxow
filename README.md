@@ -19,7 +19,7 @@ I'm a passionate developer with a keen interest in [specific technologies or pro
 
 ## 🌱 I'm currently learning
 
-- [e.g., a new ML, technolog, Deep Learning and Neural Network]
+- [e.g., a new ML, technology, Deep Learning and Neural Network]
 
 
 
