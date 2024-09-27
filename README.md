@@ -1,10 +1,7 @@
 
 # Hi there! I'm Chankxow 👋
 
-
-
-I'm a passionate developer with a keen interest in [specific technologies or programming languages you use, e.g., Python, JavaScript, etc.]. I enjoy building [mention the types of projects you like to work on, e.g., web applications, mobile apps, etc.], and I'm always eager to learn and collaborate on new ideas.
-
+I'm currently interested in AI neural networks, parallel programming, and applications in High-Performance Computing (HPC). I enjoy building, and I'm always eager to learn and collaborate on new ideas.
 
 
 ## 🔧 Technologies & Tools
