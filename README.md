@@ -1,36 +1,31 @@
-H~2~O
 
-```python
-class Person:
-  def __init__(self, name, age):
-    self.name = name
-    self.age = age
+# Hi there! I'm Chankxow 👋
 
-data = Person("Kiattipoom", 18)
 
-print(data.name)
-print(data.age)
-```
 
-# INTEREST
-- 
-- 
-- 
+I'm a passionate developer with a keen interest in [specific technologies or programming languages you use, e.g., Python, JavaScript, etc.]. I enjoy building [mention the types of projects you like to work on, e.g., web applications, mobile apps, etc.], and I'm always eager to learn and collaborate on new ideas.
 
-# MY STATS 
-![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chankxow&theme=monokai)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chankxow&theme=monokai)
-![]
-(http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chankxow&theme=monokai)
 
-<hr>
+## 🔧 Technologies & Tools
 
-<h3 align="center">A passionate frontend developer from thailand</h3>
+- **Languages:** Python['Basic'],C/C++['in progress']
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://www.facebook.com/profile.php?id=100011973946922)](https://www.facebook.com/profile.php?id=100011973946922)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ki pm" height="30" width="40" /></a>
-</p>
+- **Frameworks:** ??
 
+- **Tools:** Git, .
+
+
+
+## 🌱 I'm currently learning
+
+- [e.g., a new ML, technolog, Deep Learning and Neural Network]
+
+
+
+## 📫 How to reach me
+
+- Email: [kittipoomzx555@gmail.com]
+
+
+Feel free to check out my repositories and let's connect!
