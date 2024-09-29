@@ -1,7 +1,7 @@
 
 # Hi there! I'm Chankxow 👋
 
-I'm currently studying Computer Engineering at Kasetsart University. [junior]
+I'm currently studying Computer Engineering at Kasetsart University. [Freshy]
 
 I'm currently interested in AI neural networks, parallel programming, and applications in High-Performance Computing (HPC). I enjoy building, and I'm always eager to learn and collaborate on new ideas.
 
